@@ -1,0 +1,5 @@
+%Mert Pehlivancik
+Activityspanclean
+Devicespanclean
+Callspanclean
+Cellspanclean
