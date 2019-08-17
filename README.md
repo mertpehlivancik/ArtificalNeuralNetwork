@@ -4,6 +4,9 @@ The purpose of the project is to identify the user by looking at the call record
 phone call other than his / her own phone. MIT dataset is used for this project.
 <br/>
 ## Used Technologies:
+- Python
+- Java
 - MySQL
 - Weka 3.9.0
 - MATLAB SOM Toolbox
+
